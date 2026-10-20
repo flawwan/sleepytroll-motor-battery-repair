@@ -17,17 +17,31 @@ The original motor had no identifying markings. I first tried an **FK-050SH-1117
 
 - Soldering iron and solder
 - Suitable screwdriver and flush cutters
+- Something to cut the output shaft to the correct length. I used a angle grinder.
 
 ## Battery replacement
 
 Switch off the unit before opening it.
 
-1. Remove the screws and open the Sleepytroll. Note the wiring, then unplug the connectors. ([Open unit](Photos-1-001/PXL_20250919_134959105.jpg))
+1. Remove the screws and open the Sleepytroll. Note the wiring, then unplug the connectors.
+
+   ![Open unit](Photos-1-001/PXL_20250919_134959105.jpg)
+
 2. Carefully cut the cable ties and remove the old battery pack.
-3. I could not find an exact replacement for the [original pack](Photos-1-001/PXL_20250919_140237414.jpg), so I used two [3-cell replacement packs](Photos-1-001/PXL_20250923_182350506.jpg) wired in series to match its 7.2 V rating.
-4. Remove the replacement connectors one lead at a time. Join the packs in series, reuse the original connector, and insulate each joint with heat-shrink tubing. Verify voltage and connector polarity before connecting. ([Completed wiring](Photos-1-001/PXL_20250924_171738194.jpg))
-5. Replace the motor if needed. Secure the battery packs with new cable ties, reconnect the plugs, and keep wires clear of moving parts. Close the enclosure, reinstall the screws, and test away from the baby. ([Reassembled internals](Photos-1-001/PXL_20250924_173036933.jpg))
+3. I could not find an exact replacement for the original pack, so I used two 3-cell replacement packs wired in series to match its 7.2 V rating.
+
+   ![Original battery pack](Photos-1-001/PXL_20250919_140237414.jpg)
+
+   ![3-cell replacement battery packs](Photos-1-001/PXL_20250923_182350506.jpg)
+
+4. Remove the replacement connectors one lead at a time. Join the packs in series, reuse the original connector, and insulate each joint with heat-shrink tubing. Verify voltage and connector polarity before connecting.
+
+   ![Completed wiring](Photos-1-001/PXL_20250924_171738194.jpg)
+
+5. Replace the motor if needed. Secure the battery packs with new cable ties, reconnect the plugs, and keep wires clear of moving parts. Close the enclosure, reinstall the screws, and test away from the baby.
+
+   ![Reassembled internals](Photos-1-001/PXL_20250924_173036933.jpg)
 
 ## Motor replacement
 
-I don't have photos of the motor replacement process. Remove the old motor and desolder its leads. Transfer the gearbox to the replacement motor, solder the leads back in their original positions, and reinstall the assembly.
+I don't have photos of the motor replacement process. Remove the old motor and desolder its leads. Transfer the gearbox to the replacement motor, solder the leads back and reinstall the assembly. Note, you will need to cut the output shaft to the correct length.
