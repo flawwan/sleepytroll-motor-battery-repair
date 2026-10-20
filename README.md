@@ -29,9 +29,6 @@ Switch off the unit before opening it.
 
 2. Carefully cut the cable ties and remove the old battery pack.
 3. I could not find an exact replacement for the original pack, so I used two 3-cell replacement packs wired in series to match its 7.2 V rating.
-
-   ![Original battery pack](Photos-1-001/PXL_20250919_140237414.jpg)
-
    ![3-cell replacement battery packs](Photos-1-001/PXL_20250923_182350506.jpg)
 
 4. Remove the replacement connectors one lead at a time. Join the packs in series, reuse the original connector, and insulate each joint with heat-shrink tubing. Verify voltage and connector polarity before connecting.
