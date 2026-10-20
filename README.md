@@ -6,7 +6,7 @@ Disclaimer: This guide is for educational purposes only. Electronics repair carr
 
 ## Parts
 
-- Two [3-cell AAA Ni-MH battery packs](https://www.batteriexperten.com/sv/artiklar/universal-aaa-x-3-mfl.html)
+- Two [3-cell AAA Ni-MH battery packs](https://www.batteriexperten.com/sv/artiklar/universal-aaa-x-3-mfl.html). If you don't have a soldering iron this is a better option, but more expensive: https://butik.batteripoolen.se/produkt/7-2v-0-9ah-aaa-ni-mh-3xaaa3xaaa/.
 - Motor: **FK-050SH-07350** (see note below)
 - Two cable ties
 - Heat-shrink tubing
